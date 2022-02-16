@@ -1,6 +1,11 @@
-# Ejemplo de creacion de un paquete R
+# Creacion de un paquete en R desde cero
 
-Abrimos una nueva sesión de R y ejecutamos:
+Vea el tutorial paso a paso para crear un paquete en R desde cero aqui:
+
+<https://francisco-data.netlify.app/posts/2022-02-15-r-package-1/>
+
+
+Abrir una nueva sesión de R y ejecutar:
 
 ```r
 # instalar paquete desde directorio local
